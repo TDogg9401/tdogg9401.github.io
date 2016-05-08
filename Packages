@@ -1,0 +1,16 @@
+Package: com.tdogg9401.runningman
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Trevor Schmitt
+Installed-Size: 656
+Depends: mobilesubstrate, libactivator, firmware (>=8.0)
+Filename: ./debs/com.tdogg9401.runningman_1.0_iphoneos-arm.deb
+Size: 556036
+MD5sum: 560ee87d69b12df8e99b853feb8beb29
+SHA1: a7480555249f5e6a29ea65392a037641504814b8
+SHA256: a9c74d64b5f0ac402d7b689eb1df1a484a67ffea1218c5abf76e4e91ae93e401
+Section: Tweaks
+Description: Display a running man and play "My Boo" by Ghost Town DJs on your device in light of the #RunningManChallenge!
+Author: Trevor Schmitt
+Name: RunningMan
+
