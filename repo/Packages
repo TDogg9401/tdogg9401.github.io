@@ -1,42 +1,4 @@
 Package: com.tdogg9401.celare
-Version: 0.1~beta2
-Architecture: iphoneos-arm
-Maintainer: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
-Installed-Size: 296
-Depends: mobilesubstrate, preferenceloader (>=2.2.3), firmware (>=7.1), net.angelxwind.karenlocalizer, net.angelxwind.karenprefs
-Replaces: com.tdogg9401.dingo.calypso
-Provides: com.tdogg9401.dingo.calypso
-Filename: ./debs/com.tdogg9401.celare_0.1~beta2_iphoneos-arm.deb
-Size: 16498
-MD5sum: 18f907ad1f1b44c744298fb335b01609
-SHA1: bd1d66a803146d54c8e9f99450b6de0c55e37455
-SHA256: 2cffcc1aa05bf81b81e13d0f758540471e685c07540fb8733f3626d4fa0f7191
-Section: Tweaks
-Description: Better version of Calypso.
-Author: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
-Depiction: http://tdogg9401.com/repo/depictions/celare.html
-Name: Cēlāre
-
-Package: com.tdogg9401.celare
-Version: 0.1~beta1
-Architecture: iphoneos-arm
-Maintainer: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
-Installed-Size: 296
-Depends: mobilesubstrate, preferenceloader (>=2.2.3), firmware (>=7.1), net.angelxwind.karenlocalizer, net.angelxwind.karenprefs
-Replaces: com.tdogg9401.dingo.calypso
-Provides: com.tdogg9401.dingo.calypso
-Filename: ./debs/com.tdogg9401.celare_0.1~beta1_iphoneos-arm.deb
-Size: 16002
-MD5sum: 8d1961afd9d89731dcaef00dfa54bce1
-SHA1: 8cd060a496a82ecd120036cd8b228005db0e00c8
-SHA256: 9f17ddce86832557e3ceb900d14c0bedda935164c75c7cd32341091b63b2152f
-Section: Tweaks
-Description: Better version of Calypso.
-Author: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
-Depiction: http://tdogg9401.com/repo/depictions/celare.html
-Name: Cēlāre
-
-Package: com.tdogg9401.celare
 Version: 0.2~beta1
 Architecture: iphoneos-arm
 Maintainer: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
