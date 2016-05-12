@@ -17,20 +17,3 @@ Author: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
 Depiction: http://tdogg9401.com/repo/depictions/celare.html
 Name: Celery
 
-Package: com.tdogg9401.runningman
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Trevor Schmitt
-Installed-Size: 656
-Depends: mobilesubstrate, libactivator, firmware (>=8.0)
-Filename: ./debs/com.tdogg9401.runningman_1.0_iphoneos-arm.deb
-Size: 556002
-MD5sum: 12093c228483028a1a80777a193123dd
-SHA1: 2b4fa00c9fe394f399d00322d99704c82edc32e6
-SHA256: 16a61df6d58b833005b66d0b063f5fab8fadc320a0d757c0389ae0bb264fbaef
-Section: Tweaks
-Description: Display a running man and play "My Boo" by Ghost Town DJs on your device in light of the #RunningManChallenge!
-Author: Trevor Schmitt
-Depiction: http://tdogg9401.com/repo/depictions/rm.html
-Name: RunningMan
-
