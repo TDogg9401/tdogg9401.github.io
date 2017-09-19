@@ -1,19 +1,16 @@
-Package: com.tdogg9401.celare
-Version: 0.2~beta1
+Package: com.tdogg9401.patcyhfix
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
-Installed-Size: 296
-Depends: mobilesubstrate, preferenceloader (>=2.2.3), firmware (>=7.1), net.angelxwind.karenlocalizer, net.angelxwind.karenprefs
-Replaces: com.tdogg9401.dingo.calypso
-Provides: com.tdogg9401.dingo.calypso
-Filename: ./debs/com.tdogg9401.celare_0.2~beta1_iphoneos-arm.deb
-Size: 16446
-MD5sum: 20e5784c34cd0f516ed1d8d482aa68b0
-SHA1: c994edc976fb85ce04626a46a81d2853ffacf5cf
-SHA256: e616f7c54e749798d75e00be172f5ae621877c53eb38bd3b7e6d6a9caaa3a5da
-Section: Tweaks
-Description: Better version of Calypso.
-Author: Trevor Schmitt & Dingo <tdogg9401@icloud.com>
-Depiction: http://tdogg9401.com/repo/depictions/celare.html
-Name: Celery
+Maintainer: Trevor Schmitt <tdogg9401@gmail.com>
+Replaces: com.saurik.patcyh
+Provides: com.saurik.patcyh
+Filename: ./debs/com.tdogg9401.patcyhfix.deb
+Size: 18548
+MD5sum: 3230c32cc8f82e52fa870b982791d78f
+SHA1: 0f912523514715beec8f1165849605430d9ddb9b
+SHA256: fff1645b2a70bd1c10a983e342c457eeb20b1135637f4979072cb4e16719f2d4
+Section: System
+Description: Fixes Patcyh issues with the etasonJB 8.4.1 untethered jailbreak
+Author: Jonathan Seals
+Name: patcyhfix
 
