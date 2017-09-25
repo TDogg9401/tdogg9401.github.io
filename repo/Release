@@ -1,8 +1,0 @@
-Origin: Trevor Schmitt's Repo
-Label: Trevor Schmitt's Repo
-Suite: stable
-Version: 0.9
-Codename: insono
-Architectures: iphoneos-arm
-Components: main
-Description: Cydia Repository which contains packages I've made.
